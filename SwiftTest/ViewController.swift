@@ -15,6 +15,12 @@ class ViewController: UIViewController {
         
        HttpRequest.shareInstance.request(requestType: .GET, urlString: "https://www.qigeairen.com/api/v2.0/superiorProducts", parameters: nil) { (json) in
     
+           //测试下git
+        
+        
+           /*这是测试用的*/
+        
+        
         }
         
         

@@ -14,13 +14,13 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
        HttpRequest.shareInstance.request(requestType: .GET, urlString: "https://www.qigeairen.com/api/v2.0/superiorProducts", parameters: nil) { (json) in
-    
-           //测试下git
-        
-        
-           /*这是测试用的*/
-        
-        
+/***测试版本回退*
+         
+         
+         的，的；罚款；速度快；饭卡；上岛咖啡；看；上课；客服；Salk 风；卢卡斯的；饭卡；撒地方；laskd
+         
+         
+         */
         }
         
         
